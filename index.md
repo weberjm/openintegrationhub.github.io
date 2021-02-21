@@ -21,7 +21,7 @@ We are a community driven project. Please join us on [Slack](https://join.slack.
 
 # What is Open Integration Hub?
 
-The Open Integration Hub is a framework for easy data exchange between business applications. It provides a technical integration layer for your product or project. It is not meant as an enduser-ready application, but rather to give you a flexible set of services to enrich or build your own solution. You can easily create asynchronous [integration flows](https://openintegrationhub.github.io/docs/1%20-%20BasicConcepts/FlowBasics.html) and benefit from a wide range of standardized open source [integration components](https://openintegrationhub.github.io/docs/1%20-%20BasicConcepts/ComponentsBasics.html).
+The Open Integration Hub is a framework for easy data exchange between business applications. It provides a technical integration layer for your product or project. It is not meant as an enduser-ready application, but rather to give you a flexible set of services to enrich or build your own solution. You can easily create asynchronous [integration flows]({{ site.baseurl }}{% link docs/1 - BasicConcepts/FlowBasics.md %}) and benefit from a wide range of standardized open source [integration components](https://openintegrationhub.github.io/docs/1%20-%20BasicConcepts/ComponentsBasics.html).
 
 # Overview
 
