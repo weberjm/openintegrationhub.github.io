@@ -12,3 +12,6 @@ aux_links:
     - '//github.com/openintegrationhub'
 
 footer_content: 'Copyright &copy; 2021 <a href="https://cloudecosystem.org">Cloud Ecosystem e.V.</a>'
+
+whitelist: 
+  - "jekyll-seo-tag"
