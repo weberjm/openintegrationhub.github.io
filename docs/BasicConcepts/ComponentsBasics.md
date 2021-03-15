@@ -30,6 +30,7 @@ Like the Open Integration Hub services, components are also standardized that ca
 
 For a quick start in developing your own connector, we offer templates to start out with. These contain the basic necessary structure and functions for functionality. While these are specific to the contact data domain, they can easily be adjusted or expanded to suit any other type of data or application.
 
+
 [Contacts Component Template](https://github.com/openintegrationhub/contacts-adapter-template)
 
 <!-- [Contacts Transformer Template](https://github.com/openintegrationhub/contacts-transformer-template) -->

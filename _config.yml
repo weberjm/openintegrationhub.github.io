@@ -5,8 +5,8 @@ theme: just-the-docs
 title: Open Integration Hub
 description: Open Source Integration Framework
 
-url: 'https://openintegrationhub.github.io'
-
+url: 'https://weberjm.github.io/'
+baseurl: '/openintegrationhub.github.io'
 aux_links:
   'Open Integration Hub on GitHub':
     - '//github.com/openintegrationhub'
